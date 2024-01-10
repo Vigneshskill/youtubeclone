@@ -1,0 +1,205 @@
+* {
+  margin: 0;
+  padding: 0;
+ cursor: pointer;
+ font-family: 'Bebas Neue', sans-serif;
+font-family: 'Great Vibes', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.main-container {
+    background-color: black;
+    
+}
+.nav {
+    display: flex;
+    padding-top: 10px;
+}
+.menu-img {
+    width: 2rem;
+    height: 2rem;
+    margin-left: 2rem;
+}
+.youtube-img {
+    width: 2rem;
+    height: 2rem;
+    margin-left: 2rem;
+}
+.logo {
+    color: white;
+    display: flex;
+}
+.you-tittle {
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 2px;
+    margin-left: 4px;
+    font-family: 'Oswald', sans-serif;
+}
+.you-in {
+    margin-top: 5px;
+    font-size: 10px;
+}
+.u-cont {
+    display: flex;
+    gap: 10px;
+}
+.you-search {
+    border: 1px solid #404040;
+    margin-left: 250px;
+    border-radius: 25px;
+    height: 2.5rem;
+}
+.u-input {
+    color: white;
+    padding-left: 20px;
+    border: 0;
+    width: 550px;
+    outline: 0;
+    background: transparent;
+    margin-top: 12px;
+}
+.sear-img {
+    margin-left: -55px;
+    margin-top: 4px;
+    width: 2rem;
+    height: 2rem;
+}
+.mic-img {
+    width: 2rem;
+    height: 2rem;
+    margin-left: 20px;
+   margin-top: 4px;
+    background-color: rgb(40, 39, 39);
+    border-radius: 20px;
+}
+.bell-cont {
+    margin-left: 240px;
+    display: flex; 
+}
+.cre-img {
+    width: 2rem;
+    height: 2rem;
+    margin-top: 4px;
+}
+.bell-img {
+    width: 2rem;
+    height: 2rem;
+    margin-top: 4px;
+    margin-left: 20px;
+}
+.v-icon {
+    width: 2rem;
+    height: 2rem;
+    background-color: white;
+    margin-left: 15px;
+    margin-top: 4px;
+  border-radius: 20px;
+}
+.first-container {
+    display: flex;
+    margin-top: 20px;
+}
+
+.first-opt {
+    display: flex;
+    width: 16rem;
+}
+.first-opt-para {
+    padding-left: 10px;
+   
+    
+}
+.first-opt:hover {
+    
+    border-radius: 10px;
+    background-color: rgb(43, 42, 42);
+}
+.fi-opt-logo {
+    width: 2.5rem;
+    height: 2.5rem;
+   padding-left: 2rem;
+}
+.fi-opt-para {
+    display: flex;
+    color: white;
+   padding-left: 1.5rem;
+   margin-top: 12px;
+   padding-right: 60px;
+}
+.underline {
+    background-color: rgb(74, 73, 73);
+    width: 230px;
+    height: 0.2px;
+    margin-left: 1.5rem;
+}
+.first-div-option {
+    color: white;
+    display: flex;
+    gap: 15px;
+    margin-bottom: 25px;
+    padding-left: 50px;
+    
+}
+.fir-para {
+    margin-top: 7px;
+}
+.fir-opt-first {
+    background-color: white;
+    color: black;
+    padding-left: 15px;
+    padding-right:15px ;
+    height: 35px;
+    padding-top: -5px;
+    border-radius: 10px;
+}
+.fir-opt {
+    background-color: rgb(38, 38, 38);
+    padding-left: 15px;
+    padding-right:15px ;
+    height: 35px;
+    padding-top: -5px;
+    border-radius: 10px;
+
+}
+.fir-opt:hover {
+    background-color: rgb(57, 57, 57);
+    text-align: center;
+
+}
+.second-subcont {
+    margin-left: -2.5rem;
+}
+.sec-sub-first {
+    display: flex;
+    gap: 30px;
+    
+}
+.sec-con-img {
+    width: 380px;
+    height: 200px;
+    border-radius: 10px;
+}
+.sec-con-para {
+    color: white;
+    font-weight: bold;
+    font-weight: 200;
+    margin-left: 1.5rem;
+}
+.sec-con-paraone {
+    color: white;
+    margin-top: 18px;
+    margin-left: 1.5rem;
+}
+.sub-div-content {
+    display: flex;
+    margin-top: 1rem;
+}
+.sec-con-logo {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 30px;
+}
+.sub-div-para {
+  margin-top: -5px;
+}
